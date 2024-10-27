@@ -1,0 +1,4 @@
+Nom: Dupont, Prenom: Jean, Age: 30
+Conjoint: Jeanne Marie, Age: 30
+Enfants:
+- Francois Dupont, Age: 10
